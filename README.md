@@ -1,4 +1,14 @@
-Git push test
+
+# obsidian-qq-bot
+  本项目使用官方的QQ机器人，可以通过QQ发送消息记录obsidian中，是使用 [LumosLovegood](https://github.com/LumosLovegood)  项目进行改造
+
+
+
+
+
+
+
+
 
 # Obsidian Sample Plugin
 
